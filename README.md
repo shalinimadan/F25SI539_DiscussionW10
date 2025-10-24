@@ -10,7 +10,7 @@ By completing this exercise, you will learn to:
 
 1. Identify accessibility problems in HTML and CSS
 
-2. Use HTML comments (<!-- ... -->) and CSS comments (/* ... */) correctly
+2. Use comments correctly
 
 3. Replace poor code with accessible alternatives
 
