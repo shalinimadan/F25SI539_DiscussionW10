@@ -8,22 +8,20 @@ Your mission is to fix it using your understanding of accessibility and coursewo
 
 By completing this exercise, you will learn to:
 
-Identify accessibility problems in HTML and CSS
+1. Identify accessibility problems in HTML and CSS
 
-Use HTML comments (<!-- ... -->) and CSS comments (/* ... */) correctly
+2. Use HTML comments (<!-- ... -->) and CSS comments (/* ... */) correctly
 
-Replace poor code with accessible alternatives
+3. Replace poor code with accessible alternatives
 
-Explain why your changes improve accessibility
+4. Explain why your changes improve accessibility
 
 **Instructions**
-Open the project in your code editor. You will see two files:
+Step1: Open the project in your code editor. You will see two files:
 
-index.html
+index.html and style.css
 
-style.css
-
-Run the form in your browser and observe what makes it confusing, flashy, or difficult to use.
+Step 2: Run the form in your browser and observe what makes it confusing, flashy, or difficult to use.
 
 Comment out the inaccessible parts of the code.
 
@@ -31,6 +29,6 @@ Use <!-- ... --> in HTML
 
 Use /* ... */ in CSS
 
-Write your corrected, accessible version directly below the commented-out code.
+Step 3: Write your corrected, accessible version directly below the commented-out code.
 
-Add a one-line explanation describing why your fix improves accessibility.
+Step 4: Add a one-line explanation describing why your fix improves accessibility.
