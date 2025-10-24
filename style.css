@@ -41,14 +41,14 @@ textarea {
   transition: all 1s ease;
 }
 
-/* Wild focus effects 😵‍💫 */
+/* Wild focus effects*/
 input:focus {
   -webkit-transform: rotate(5760deg) scale(2);
   border: 5px solid red;
   margin-left: 140px;
 }
 
-/* Blinking invalid animation 🚨 */
+/* Blinking invalid animation*/
 input:invalid {
   -webkit-animation: wrong .1s infinite ease;
 }
