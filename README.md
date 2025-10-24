@@ -14,10 +14,11 @@ By completing this exercise, you will learn to:
 
 3. Replace poor code with accessible alternatives
 
-4. Explain why your changes improve accessibility
+4. Explain why your changes improve accessibility - leave comments
 
 **Instructions**
-Step1: Open the project in your code editor. You will see two files:
+
+Step 1: Open the project in your code editor. You will see two files:
 
 index.html and style.css
 
